@@ -1,6 +1,6 @@
 {
-  "skill_id": "ovos-skill-air-quality.emkay-voice",
-  "source": "https://github.com/emkay-voice/template-web",
+  "skill_id": "ovos-skill-air-quality-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-air-quality-example",
   "name": "Calidade do aire",
   "description": "Pregúntalle a un servizo web gratuíto que limpo está o aire e que forte está o sol onde estás.",
   "examples": [

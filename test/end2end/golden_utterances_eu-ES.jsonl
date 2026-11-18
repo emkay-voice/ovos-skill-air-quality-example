@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "nolakoa da airearen kalitatea", "lang": "eu-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "airea garbia dago gaur", "lang": "eu-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "zein da uv indizea gaur", "lang": "eu-ES", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "zein indartsua da eguzkia gaur", "lang": "eu-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "nolakoa da airearen kalitatea", "lang": "eu-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "airea garbia dago gaur", "lang": "eu-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "zein da uv indizea gaur", "lang": "eu-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "zein indartsua da eguzkia gaur", "lang": "eu-ES", "intent_label": "uv.intent"}

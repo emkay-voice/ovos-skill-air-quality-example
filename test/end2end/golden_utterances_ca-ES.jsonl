@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "quina és la qualitat de l'aire", "lang": "ca-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "l'aire està net avui", "lang": "ca-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "quin és l'índex uv avui", "lang": "ca-ES", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "com de fort és el sol avui", "lang": "ca-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "quina és la qualitat de l'aire", "lang": "ca-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "l'aire està net avui", "lang": "ca-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "quin és l'índex uv avui", "lang": "ca-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "com de fort és el sol avui", "lang": "ca-ES", "intent_label": "uv.intent"}

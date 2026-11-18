@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "hvordan er luftkvaliteten", "lang": "da-DK", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "er luften ren i dag", "lang": "da-DK", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "hvad er uv indekset i dag", "lang": "da-DK", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "er solen stærk i dag", "lang": "da-DK", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "hvordan er luftkvaliteten", "lang": "da-DK", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "er luften ren i dag", "lang": "da-DK", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "hvad er uv indekset i dag", "lang": "da-DK", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "er solen stærk i dag", "lang": "da-DK", "intent_label": "uv.intent"}

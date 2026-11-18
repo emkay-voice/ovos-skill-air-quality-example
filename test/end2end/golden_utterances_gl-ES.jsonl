@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "cal é a calidade do aire", "lang": "gl-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "está o aire limpo hoxe", "lang": "gl-ES", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "cal é o índice uv hoxe", "lang": "gl-ES", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "que forte está o sol hoxe", "lang": "gl-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "cal é a calidade do aire", "lang": "gl-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "está o aire limpo hoxe", "lang": "gl-ES", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "cal é o índice uv hoxe", "lang": "gl-ES", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "que forte está o sol hoxe", "lang": "gl-ES", "intent_label": "uv.intent"}

@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "wie ist die luftqualität", "lang": "de-DE", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "ist die luft sauber heute", "lang": "de-DE", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "wie hoch ist der uv index heute", "lang": "de-DE", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "wie stark ist die sonne heute", "lang": "de-DE", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "wie ist die luftqualität", "lang": "de-DE", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "ist die luft sauber heute", "lang": "de-DE", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "wie hoch ist der uv index heute", "lang": "de-DE", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "wie stark ist die sonne heute", "lang": "de-DE", "intent_label": "uv.intent"}

@@ -1,6 +1,6 @@
 {
-  "skill_id": "ovos-skill-air-quality.emkay-voice",
-  "source": "https://github.com/emkay-voice/template-web",
+  "skill_id": "ovos-skill-air-quality-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-air-quality-example",
   "name": "Qualitat de l'aire",
   "description": "Pregunta a un servei web gratuït com de net és l'aire i com de fort és el sol on ets.",
   "examples": [

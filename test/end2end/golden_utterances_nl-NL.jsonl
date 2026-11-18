@@ -1,4 +1,4 @@
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "hoe is de luchtkwaliteit", "lang": "nl-NL", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "is de lucht schoon vandaag", "lang": "nl-NL", "intent_label": "air.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "wat is de uv index vandaag", "lang": "nl-NL", "intent_label": "uv.intent"}
-{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "hoe sterk is de zon vandaag", "lang": "nl-NL", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "hoe is de luchtkwaliteit", "lang": "nl-NL", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "is de lucht schoon vandaag", "lang": "nl-NL", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "wat is de uv index vandaag", "lang": "nl-NL", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality-example.emkay-voice", "utterance": "hoe sterk is de zon vandaag", "lang": "nl-NL", "intent_label": "uv.intent"}
