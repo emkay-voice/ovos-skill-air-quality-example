@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-air-quality.emkay-voice",
+  "source": "https://github.com/emkay-voice/template-web",
+  "name": "Luftqualität",
+  "description": "Fragt einen kostenlosen Webdienst, wie sauber die Luft ist und wie stark die Sonne, wo du bist.",
+  "examples": [
+    "Wie ist die Luftqualität?",
+    "Wie hoch ist der UV-Index heute?"
+  ],
+  "tags": [
+    "air quality",
+    "uv",
+    "open-meteo",
+    "emkay"
+  ]
+}

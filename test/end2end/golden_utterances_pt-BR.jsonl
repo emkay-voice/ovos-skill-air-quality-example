@@ -1,0 +1,4 @@
+{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "qual é a qualidade do ar", "lang": "pt-BR", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "o ar está limpo hoje", "lang": "pt-BR", "intent_label": "air.intent"}
+{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "qual é o índice uv hoje", "lang": "pt-BR", "intent_label": "uv.intent"}
+{"skill_id": "ovos-skill-air-quality.emkay-voice", "utterance": "quão forte está o sol hoje", "lang": "pt-BR", "intent_label": "uv.intent"}

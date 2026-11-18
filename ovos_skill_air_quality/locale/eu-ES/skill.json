@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-air-quality.emkay-voice",
+  "source": "https://github.com/emkay-voice/template-web",
+  "name": "Airearen kalitatea",
+  "description": "Doako web zerbitzu bati galdetzen dio zein garbia dagoen airea eta zein indartsua den eguzkia zauden lekuan.",
+  "examples": [
+    "Nolakoa da airearen kalitatea?",
+    "Zein da UV indizea gaur?"
+  ],
+  "tags": [
+    "air quality",
+    "uv",
+    "open-meteo",
+    "emkay"
+  ]
+}

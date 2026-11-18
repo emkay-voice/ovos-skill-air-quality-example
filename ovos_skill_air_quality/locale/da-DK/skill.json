@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-skill-air-quality.emkay-voice",
+  "source": "https://github.com/emkay-voice/template-web",
+  "name": "Luftkvalitet",
+  "description": "Spørger en gratis webtjeneste, hvor ren luften er, og hvor stærk solen er, der hvor du er.",
+  "examples": [
+    "Hvordan er luftkvaliteten?",
+    "Hvad er UV-indekset i dag?"
+  ],
+  "tags": [
+    "air quality",
+    "uv",
+    "open-meteo",
+    "emkay"
+  ]
+}
