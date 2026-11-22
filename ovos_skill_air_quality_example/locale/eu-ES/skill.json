@@ -1,6 +1,10 @@
 {
   "skill_id": "ovos-skill-air-quality-example.emkay-voice",
   "source": "https://github.com/emkay-voice/ovos-skill-air-quality-example",
+  "package_name": "ovos-skill-air-quality-example",
+  "pip_spec": "ovos-skill-air-quality-example",
+  "license": "Apache-2.0",
+  "author": "emkay-voice",
   "name": "Airearen kalitatea",
   "description": "Doako web zerbitzu bati galdetzen dio zein garbia dagoen airea eta zein indartsua den eguzkia zauden lekuan.",
   "examples": [

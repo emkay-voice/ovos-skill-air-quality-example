@@ -1,6 +1,10 @@
 {
   "skill_id": "ovos-skill-air-quality-example.emkay-voice",
   "source": "https://github.com/emkay-voice/ovos-skill-air-quality-example",
+  "package_name": "ovos-skill-air-quality-example",
+  "pip_spec": "ovos-skill-air-quality-example",
+  "license": "Apache-2.0",
+  "author": "emkay-voice",
   "name": "Calidad del aire",
   "description": "Pregunta a un servicio web gratuito lo limpio que está el aire y lo fuerte que está el sol donde estás.",
   "examples": [
